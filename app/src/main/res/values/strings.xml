@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Problem13GoogleFirebase</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_new_email">New Email</string>
+    <string name="hint_password">Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_forget">Forgot your password?</string>
+    <string name="link_login">Already registered. Login Me!</string>
+    <string name="enter_email">Enter email address!</string>
+    <string name="enter_pass">Enter Password!</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_back_register">Not a member? Get registered in Firebase now!</string>
+    <string name="wrong_pass">The user name or password is incorrect</string>
+    <string name="wrong_email">The email is incorrect</string>
+    <string name="text_reset_pass">Please enter your registered Email Id</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_reset">Reset password</string>
+    <string name="toat_reset_success">We have sent you instructions to reset your password!</string>
+</resources>
